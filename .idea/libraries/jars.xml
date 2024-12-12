@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/kotlin-stdlib-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/okhttp-4.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/okio-3.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/okhttp-5.0.0-alpha.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/okio-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/json-20210307 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/p7_final/jars/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

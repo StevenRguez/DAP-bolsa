@@ -11,7 +11,7 @@ import java.net.URL;
  */
 public class ProfitAPI {
     private final FinancialData financialData;                                              /**< Sujeto concreto para datos financieros. */
-    private static final String API_KEY = "846d2448ddae471ab8801b1da04f99d0";               /**< Clave de autenticación */
+    private static final String API_KEY = "d1e47fb1b15641dd971dc9b0ce0a212c";               /**< Clave de autenticación */
 
     /**
      * @brief Constructor.
